@@ -1,0 +1,28 @@
+{
+  "name": "NLW-Together-RocketSeat",
+  "version": "1.0.0",
+  "description": "Next Level Week da Rocket Seat - trilha NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreh-lacerda/NLW-Together-RocketSeat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreh-lacerda/NLW-Together-RocketSeat/issues"
+  },
+  "homepage": "https://github.com/andreh-lacerda/NLW-Together-RocketSeat#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.12",
+    "ts-node-dev": "^1.1.6",
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
